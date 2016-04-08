@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListOfPeople\ListOfPeople\bin\Debug\ListOfPeople.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListOfPeople\ListOfPeople\bin\Debug\ListOfPeople.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListOfPeople\ListOfPeople\bin\Debug\ListOfPeople.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListOfPeople\ListOfPeople\obj\Debug\ListOfPeople.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListOfPeople\ListOfPeople\obj\Debug\ListOfPeople.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListOfPeople\ListOfPeople\obj\Debug\ListOfPeople.pdb
